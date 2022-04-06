@@ -19,7 +19,7 @@
         <h1>고두영</h1>
       </div>
       <section>
-        <h2>About me</h2>
+        <h2 id="first">About me</h2>
         <p>숙명여자대학교 컴퓨터과학전공 20학번</p>
         <ul>
           <li>나이 : 22</li>
@@ -28,33 +28,74 @@
         </ul>
       </section>
       <section>
-        <h2>My study</h2>
+        <h2 id="second">My study</h2>
         <p>공부하고 있는 언어 : Java, React</p>
         <p>공부 중인 것 : 알고리즘</p>
         <p>관심 분야 : 프론트엔드/백엔드 개발</p>
         <p>저는 다양한 분야를 공부하고 싶습니다.</p>
       </section>
       <section>
-        <h2>My site</h2>
+        <h2 id="third">My site</h2>
         <div class="row">
         <div class="col-sm-6">
           <div class="card">
           <div class="card-body">
-            <h5 class="card-title">Special title treatment</h5>
-            <p class="card-text">With supporting text below ad a natural</p>
-            <a href="#" class="btn btn-primary">Go somewhere</a>
+            <h5 class="card-title">Github</h5>
+            <p class="card-text">깃허브 프로필 바로가기<br>깃허브 아이디: duyeong-ko</p>
+            <a href="https://github.com/duyeong-ko" class="btn btn-primary">Go github</a>
           </div>
         </div>
         </div>
         <div class="col-sm-6">
           <div class="card">
             <div class="card-body">
-              <h5 class="card-title">Special title treatment</h5>
-              <p class="card-text">With supporting text below ad a natural</p>
-              <a href="#" class="btn btn-primary">Go somewhere</a>
+              <h5 class="card-title">기술 블로그</h5>
+              <p class="card-text">Tistory 블로그<br>newbie입니다..</p>
+              <a href="https://dydevelop.tistory.com/" class="btn btn-primary">Go blog</a>
             </div>
           </div>
         </div>
+      </section>
+      <section>
+        <h2 id="fourth">Additional</h2>
+        <p>이 사이트를 제작할 때 사용한 것들(복습용)</p>
+        <div class="accordion accordion-flush" id="accordionFlushExample">
+          <div class="accordion-item">
+            <h2 class="accordion-header" id="flush-headingOne">
+              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
+                #1. h2 요소들의 색을 각각 다르게
+              </button>
+            </h2>
+            <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
+              <div class="accordion-body">각 h2에게 id를 부여해서 #first, #second로 고유성을 부여했다. 그리고 css파일에서 #fisrt, #second 식으로 각각 다른 background-color를 지정했다.</div>
+            </div>
+          </div>
+          <div class="accordion-item">
+            <h2 class="accordion-header" id="flush-headingTwo">
+              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
+                #2. 문장 드래그 시 드래그한 부분만 색이 변화하게
+              </button>
+            </h2>
+            <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
+              <div class="accordion-body">*::selection 을 이용했다. *<- 전체 요소를 포함하게<p>css에서 background-color를 thistle컬러로 적용시켜서 드래그 시 해당 색으로 변하게 했다.</p></div>
+            </div>
+          </div>
+          <div class="accordion-item">
+            <h2 class="accordion-header" id="flush-headingThree">
+              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
+                #3. bootstrap 이용하여 보기좋게
+              </button>
+            </h2>
+            <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
+              <div class="accordion-body">bootstrap 사이트에서 원하는 요소의 코드를 복사하여 붙여넣으면 된다. </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section>
+        <footer>
+          copyright duyeong. All rights reserved.
+        </footer>
       </section>
     </div>
     <script
