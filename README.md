@@ -6,5 +6,5 @@
 
 | 강의 내용 | 캡쳐 | 
 |:------:|:------|
-|`일단 만드는 HTML/CSS`|![3](https://user-images.githubusercontent.com/101977975/161942711-1200d4a2-8a66-4c92-b948-96ef5b3fe038.PNG)
+|`일단 만드는 HTML/CSS`|<img width="700" src="https://user-images.githubusercontent.com/101977975/161942711-1200d4a2-8a66-4c92-b948-96ef5b3fe038.PNG">
 | 
