@@ -14,4 +14,4 @@
 |`[심화] 같이 푸는 PYTHON`|![4](https://user-images.githubusercontent.com/101977975/167520887-120e09d3-cecf-4aa6-acce-ce43c0d69d9b.PNG)|
 |`[심화] 같이 푸는 PYTHON`|![5](https://user-images.githubusercontent.com/101977975/167520895-73a6f045-4177-44e0-9c94-ed20a4f6edf0.PNG)|
 |`[심화] 같이 푸는 PYTHON`|![6](https://user-images.githubusercontent.com/101977975/167520924-2d589e44-78be-4c50-ae26-760821b34a22.PNG)|
-|`[일단 만드는 Javascript`|![2](https://user-images.githubusercontent.com/101977975/170070668-7ad82201-3eb5-400e-82be-2528cf5b9dd1.PNG)|
+|`일단 만드는 Javascript`|![2](https://user-images.githubusercontent.com/101977975/170070668-7ad82201-3eb5-400e-82be-2528cf5b9dd1.PNG)|
